@@ -18,7 +18,4 @@ function isimKaydet() {
     }
   }
   
-  // Sayfa yüklendiğinde çalışsın:
-  isimKaydet(); // önce isim al ve kaydet
-  selamla();    // sonra selamla
   
